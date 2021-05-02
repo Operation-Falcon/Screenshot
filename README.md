@@ -27,3 +27,13 @@ Usage :
                      python3 app.py -u <url address>
 
                      python3 app.py -f <filename>
+
+Output :
+
+                     All the output will be saved inside snapshot directory.
+
+                     python3 app.py -u <url address> (output inside snapshot directory)
+
+                     python3 app.py -f <filename> (output inside snapshot directory)
+
+                     All output will be saved inside snapshot directory.
