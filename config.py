@@ -1,0 +1,1 @@
+path='/root/PycharmProjects/Screenshot/geckodriver'
