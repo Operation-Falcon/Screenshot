@@ -4,7 +4,7 @@ Day 4
 
 Project 3
 
-![screenshot](https://user-images.githubusercontent.com/83413793/116813590-085f0b00-ab72-11eb-925a-59f07118df58.png)
+![screenshot](https://user-images.githubusercontent.com/83413793/116813813-604a4180-ab73-11eb-8d5c-b4be6a81e72f.png)
 
 # Screenshot
 
@@ -17,3 +17,9 @@ Installation :
                      cd Screenshot
 
                      pip3 install -r requirements.txt
+
+Usage :
+
+                     python3 app.py -h
+
+                     python3 app.py -u <url address>
