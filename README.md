@@ -12,8 +12,6 @@ Screenshot take snapshot of target provided to it . You can pass a single web ad
 
 Installation :
 
-![usage](https://user-images.githubusercontent.com/83413793/116813887-c8008c80-ab73-11eb-961d-2b94034b1cfc.png)
-
                      https://github.com/operationfalcon/Screenshot.git
 
                      cd Screenshot
@@ -21,6 +19,8 @@ Installation :
                      pip3 install -r requirements.txt
 
 Usage :
+
+![usage](https://user-images.githubusercontent.com/83413793/116813887-c8008c80-ab73-11eb-961d-2b94034b1cfc.png)
 
                      python3 app.py -h
 
